@@ -1,24 +1,24 @@
 # Election_Analysis
 ## Overview of Project
-###The purpose of the election alanalysis was to complete an election audit for the eletion commissioner. The audit provided information for winning cadidates as well as the winning county.
-##Election Audit 
-###The analysis of the election shows that out of the three counties a total of 369,711 votes were cast. 
+### The purpose of the election alanalysis was to complete an election audit for the eletion commissioner. The audit provided information for winning cadidates as well as the winning county.
+## Election Audit 
+### The analysis of the election shows that out of the three counties a total of 369,711 votes were cast. 
 
-###The three counties included were:
+### The three counties included were:
   -Jefferson with 38,555 votes which is 10.5% of the total votes 
   -Denver  with 306,055 votes which is 82.8% of the total votes 
   -Arapahoe with 24,801 votes, which is 6.7% of the total votes
   
   
-###The county with the largest number of votes was Denver with 82.8% of the total votes. 
+### The county with the largest number of votes was Denver with 82.8% of the total votes. 
 
 
-###The candidates were:
+### The candidates were:
   -Charles Casper Stockham with 85,213 votes, which is 23.0% of the total votes 
   -Diana DeGette with 272,892 votes, which is 73.8% of the total votes
   -Raymon Anthony Doane with 11,606 votes, which is 3.1% of the total votes
   
-###The winning candidate was Diana DeGette who recieved 272,892 votes which was 73.8% of the total votes. 
+### The winning candidate was Diana DeGette who recieved 272,892 votes which was 73.8% of the total votes. 
 
   
 ## Election Audit Summary 
