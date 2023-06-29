@@ -1,6 +1,6 @@
 # Election_Analysis
 ## Overview of Project
-### The purpose of the election alanalysis was to complete an election audit for the eletion commissioner. The audit provided information for winning cadidates as well as the winning county.
+### The purpose of the election alanalysis was to complete an election audit for the election commissioner. The audit provided information for winning cadidates as well as the winning county.
 ## Election Audit 
 ### The analysis of the election shows that out of the three counties a total of 369,711 votes were cast. 
 
@@ -22,5 +22,5 @@
 
   
 ## Election Audit Summary 
-###The election committee will be able to use this code for future elections just by changing the csv file that is imported and running the code. This file will need modifications such as making it user friendly to easily upload the information.This could include dropping url files or making it so that each county has a way for all of the files to upload to one area. There could also be individual county results for each candidate that can be pooled at the end. So information about eah candidate and how they did in each county can be detailed before the final total vote count. 
+### The election committee will be able to use this code for future elections just by changing the csv file that is imported and running the code. This file will need modifications such as making it user friendly to easily upload the information.This could include dropping url files or making it so that each county has a way for all of the files to upload to one area. There could also be individual county results for each candidate that can be pooled at the end. So information about eah candidate and how they did in each county can be detailed before the final total vote count. 
 
